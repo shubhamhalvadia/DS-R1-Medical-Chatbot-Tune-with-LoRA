@@ -66,11 +66,6 @@ I compressed the model weights from 32-bit to 4-bit precision. This reduces memo
 
 The loss decreased consistently during training, which shows the model was successfully learning the medical reasoning patterns.
 
-### Training Metrics (W&B)
-
-![Training Metrics](https://pplx-res.cloudinary.com/image/upload/v1743016051/user_uploads/GivWetDpRQjMIHA/1.jpg)  
-*Training loss, learning rate, and gradient norms tracked throughout the process.*
-
 ---
 
 ## Before vs After Comparison
